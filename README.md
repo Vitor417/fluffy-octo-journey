@@ -1,7 +1,7 @@
 ### Boas Vindas ao meu perfil 🚀
 
 - Meu nome é Vitor Soldatti
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na lingauegem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
