@@ -10,3 +10,6 @@
   vitorsoldatti@gmail.com
 
   @vitorzmx_
+
+
+![](https://media1.tenor.com/m/CiJuhjUFaeIAAAAC/gojo-satoru-jujutsu-kaisen.gif)
